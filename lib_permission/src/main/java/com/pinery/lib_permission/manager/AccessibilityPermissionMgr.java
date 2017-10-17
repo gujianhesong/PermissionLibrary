@@ -33,7 +33,7 @@ public class AccessibilityPermissionMgr {
    */
   public static <T extends AccessibilityService> void checkOpenPermission(Activity context, Class<T> clazz, OnPermissionListener listener){
 
-    if(!isFuzhuServiceEnabled(context, clazz)){
+    if(!isAccessibilityServiceEnabled(context, clazz)){
 
       showOpenPermissionDialog(context, clazz, listener);
 
@@ -91,7 +91,7 @@ public class AccessibilityPermissionMgr {
    * @param listener
    */
   private static <T extends AccessibilityService> void requestAccessabilityPermission(final Context context, Class<T> clazz, OnPermissionListener listener){
-    if(!isFuzhuServiceEnabled(context, clazz)){
+    if(!isAccessibilityServiceEnabled(context, clazz)){
       openFuzhuService(context);
 
       new Handler(Looper.getMainLooper()).post(new Runnable() {
@@ -111,7 +111,7 @@ public class AccessibilityPermissionMgr {
    * @param <T>
    * @return
    */
-  public static <T extends AccessibilityService> boolean isFuzhuServiceEnabled(Context context, Class<T> clazz){
+  public static <T extends AccessibilityService> boolean isAccessibilityServiceEnabled(Context context, Class<T> clazz){
     boolean isEnabled = false;
 
     AccessibilityManager manager = (AccessibilityManager) context.getSystemService(Context.ACCESSIBILITY_SERVICE);
@@ -166,7 +166,7 @@ public class AccessibilityPermissionMgr {
     new Handler(Looper.getMainLooper()).postDelayed(new Runnable() {
       @Override public void run() {
 
-        if (isFuzhuServiceEnabled(context, clazz)) {
+        if (isAccessibilityServiceEnabled(context, clazz)) {
           if(listener != null){
             listener.onFetchPermission(true);
           }

@@ -4,7 +4,7 @@
     <string name="tip_open_float">Please find float and Open it</string>
     <string name="str_avoid_be_killed">You should open the notification permission！</string>
     <string name="tip_notification_access">Notification access</string>
-    <string name="grant">I grant</string>
+    <string name="grant">Grant</string>
     <string name="tip_open_oppo_float">Please click Floating window management, find and enable it</string>
     <string name="tip_open_oppo_boot">Please click Manage autorun apps, find and enable it</string>
     <string name="tip_open_meizu_float">Please find and activate floating window or pop-up notification</string>

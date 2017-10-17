@@ -4,7 +4,7 @@
     <string name="str_avoid_be_killed">您需要开启通知权限！</string>
     <string name="tip_open_accessability">您需要开启辅助功能！</string>
     <string name="tip_notification_access">通知访问</string>
-    <string name="grant">批准啦</string>
+    <string name="grant">授权</string>
     <string name="tip_open_oppo_float">请点击悬浮窗管理, 找到我并开启</string>
     <string name="tip_open_oppo_boot">请点击自启动管理, 找到我并开启</string>
     <string name="tip_open_meizu_float">请找到并激活[悬浮窗]或[弹框消息]</string>
