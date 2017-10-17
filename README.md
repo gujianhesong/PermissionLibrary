@@ -33,9 +33,9 @@
 ```
 
 效果图如下：
-![](https://github.com/gujianhesong/PermissionLibrary/screenshot/main.png)
-![](https://github.com/gujianhesong/PermissionLibrary/screenshot/request_dialog.png)
-![](https://github.com/gujianhesong/PermissionLibrary/screenshot/guide_float_dialog.png)
-![](https://github.com/gujianhesong/PermissionLibrary/screenshot/guide_notification_dialog.png)
+![](https://github.com/gujianhesong/PermissionLibrary/blob/master/screenshot/main.png)
+![](https://github.com/gujianhesong/PermissionLibrary/blob/master/screenshot/request_dialog.png)
+![](https://github.com/gujianhesong/PermissionLibrary/blob/master/screenshot/guide_float_dialog.png)
+![](https://github.com/gujianhesong/PermissionLibrary/blob/master/screenshot/guide_notification_dialog.png)
 
 当然每个权限管理类中也都包含判断和请求的方法，有额外需要的可以使用。
