@@ -24,5 +24,6 @@
     <string name="tip_float_permission">Draw over other apps</string>
     <string name="off">Close</string>
     <string name="permission_guide_message">Please find and open %s。</string>
+    <string name="tip_permission_title">Permission request</string>
 
 </resources>

@@ -59,6 +59,7 @@ public class AccessibilityPermissionMgr {
     mIsSettingFloatDialogShowing = true;
 
     new CustomAlertDialog(context)
+        .setTitle(R.string.tip_permission_title)
         .setMessage(context.getString(R.string.grant_permission, context.getString(R.string.tip_open_accessability)))
         .setCancelable(false)
         .setPositiveButton(R.string.grant,

@@ -72,6 +72,7 @@ public class NotificationPermissionMgr {
     mIsSettingFloatDialogShowing = true;
 
     new CustomAlertDialog(context)
+        .setTitle(R.string.tip_permission_title)
         .setMessage(context.getString(R.string.grant_permission, context.getString(R.string.str_avoid_be_killed)))
         .setCancelable(false)
         .setPositiveButton(R.string.grant,

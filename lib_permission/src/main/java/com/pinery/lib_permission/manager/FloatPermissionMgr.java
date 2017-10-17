@@ -27,8 +27,6 @@ import com.pinery.lib_permission.util.VersionUtil;
 public class FloatPermissionMgr {
 
   private final static int REQUEST_CODE_FLOAT = 1101;//悬浮窗权限
-  private final static int REQUEST_CODE_NOTIFICATION = 1102;//通知权限
-  private final static int REQUEST_CODE_ACCESSABILATY = 1103;//辅助功能权限
 
   private static boolean mIsSettingFloatDialogShowing;
 
@@ -41,7 +39,7 @@ public class FloatPermissionMgr {
     //if(needRequestFloatPermission(context)){
 
       //检测国产机是否有悬浮窗权限
-      if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M && !RomHelper.hasFloatWindowPermission(context)) {
+      if (/*Build.VERSION.SDK_INT < Build.VERSION_CODES.M && */!RomHelper.hasFloatWindowPermission(context)) {
 
         showOpenPermissionDialog(context, false, listener);
 
@@ -97,6 +95,7 @@ public class FloatPermissionMgr {
     mIsSettingFloatDialogShowing = true;
 
     new CustomAlertDialog(context)
+        .setTitle(R.string.tip_permission_title)
         .setMessage(context.getString(R.string.grant_permission, context.getString(R.string.tip_float_permission)))
         .setCancelable(false)
         .setPositiveButton(R.string.grant,
