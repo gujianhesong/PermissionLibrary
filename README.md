@@ -1,6 +1,6 @@
 # PermissionLibrary
 
-###简介
+### 简介
 一个android权限检测请求的库，暂时提供三种特殊权限的请求：
 - 悬浮窗
 - 通知
@@ -12,7 +12,7 @@
 
 提供申请框和跳转引导框，同时每个权限管理类中也都包含判断和请求的方法，有额外需要的可以单独使用。
 
-###使用说明
+### 使用说明
 悬浮窗权限检测请求调用：
 ```
   FloatPermissionMgr.checkOpenPermission(this, new OnPermissionListener() {
@@ -54,7 +54,7 @@
 ```
 
 
-###效果图
+### 效果图
 </br>
 <img src="https://github.com/gujianhesong/PermissionLibrary/blob/master/screenshot/main.png?raw=true" width="280"/> <img src="https://github.com/gujianhesong/PermissionLibrary/blob/master/screenshot/request_dialog.png?raw=true" width="280"/>  
 </br>
