@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Vänligen hitta och öppna den</string>	
+    	<string name="tip_open_float">Vänligen hitta float och öppna den</string>	
+    	<string name="str_avoid_be_killed">Du bör öppna anmälan tillstånd!</string>	
+    	<string name="tip_open_accessability">Du bör öppna åtkomsttillståndet!</string>	
+    	<string name="tip_notification_access">Anmälningsåtkomst</string>	
+    	<string name="grant">Bevilja</string>	
+    	<string name="tip_open_oppo_float">Klicka på Floating Window Management, hitta och aktivera den</string>	
+    	<string name="tip_open_oppo_boot">Klicka på Hantera autorun-appar, sök och aktivera det</string>	
+    	<string name="tip_open_meizu_float">Vänligen hitta och aktivera flytande fönster eller popup-meddelande</string>	
+    	<string name="tip_open_meizu_boot">Aktivera automatisk lansering</string>	
+    	<string name="tip_permission_not_open">Grant misslyckades</string>	
+    	<string name="tip_open_common_protect">För att förhindra att Touch Master stoppas, hitta mig, tryck och dra ner till\nlås den.\n\n</string>	
+    	<string name="tip_open_samsung_protect">För att förhindra att Touch Master stoppas, hitta mig och lås den.</string>	
+    	<string name="tip_open_xiaomi_boot">Klicka på Autostart, sök och aktivera mig</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Vänligen aktivera Trusted app och Auto launch för att säkerställa en stabil körning.</string>	
+    	<string name="tip_open_samsung_boot">Vänligen klicka på RAM, AUTO RUN APPS, hitta Touch Master och aktivera den.</string>	
+    	<string name="grant_permission">Funktionen behöver tillstånd, var god bevilja den.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Rita över andra appar</string>	
+    	<string name="tip_write_settings_permission">Skriv inställningar</string>	
+    	<string name="off">Stänga</string>	
+    	<string name="permission_guide_message">Vänligen hitta och öppna% s.</string>	
+    	<string name="tip_permission_title">Tillståndsförfrågan</string>	
+    	<string name="tip_open_permission">Vänligen öppna tillstånd</string>	
+
+</resources>

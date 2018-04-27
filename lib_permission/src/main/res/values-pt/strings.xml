@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Por favor, encontre e abra</string>	
+    	<string name="tip_open_float">Por favor, encontrar float e abri-lo</string>	
+    	<string name="str_avoid_be_killed">Você deve abrir a permissão de notificação！</string>	
+    	<string name="tip_open_accessability">Você deve abrir a permissão de acessibilidade！</string>	
+    	<string name="tip_notification_access">Acesso de notificação</string>	
+    	<string name="grant">Conceder</string>	
+    	<string name="tip_open_oppo_float">Por favor, clique em Gerenciamento de janela flutuante, encontre e ative</string>	
+    	<string name="tip_open_oppo_boot">Por favor, clique em Gerenciar aplicativos autorun, localize e ative</string>	
+    	<string name="tip_open_meizu_float">Por favor, encontrar e ativar janela flutuante ou notificação pop-up</string>	
+    	<string name="tip_open_meizu_boot">Ativar o lançamento automático</string>	
+    	<string name="tip_permission_not_open">Grant falhou</string>	
+    	<string name="tip_open_common_protect">Para impedir que o Touch Master pare, por favor, encontre-me, pressione e puxe para\nbloqueá-lo.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Para evitar que o Touch Master seja parado, por favor, encontre-me e bloqueie-o.</string>	
+    	<string name="tip_open_xiaomi_boot">Por favor, clique em Autostart, encontre e me habilite</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Ative o aplicativo confiável e o lançamento automático para garantir uma operação estável.</string>	
+    	<string name="tip_open_samsung_boot">Por favor, clique em RAM, AUTO RUN APPS, localize o Touch Master e habilite-o.</string>	
+    	<string name="grant_permission">O recurso precisa de permissão, por favor, conceda-o.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Desenhe outros aplicativos</string>	
+    	<string name="tip_write_settings_permission">Escrever configurações</string>	
+    	<string name="off">Fechar</string>	
+    	<string name="permission_guide_message">Por favor encontre e abra% s。</string>	
+    	<string name="tip_permission_title">Pedido de permissão</string>	
+    	<string name="tip_open_permission">Por favor abra permissão</string>	
+
+</resources>

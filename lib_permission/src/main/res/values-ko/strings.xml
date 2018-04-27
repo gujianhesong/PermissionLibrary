@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">그것을 찾아서 열어주세요.</string>	
+    	<string name="tip_open_float">부유물을 찾아서 열어주세요.</string>	
+    	<string name="str_avoid_be_killed">알림 권한을 열어야합니다!</string>	
+    	<string name="tip_open_accessability">액세스 가능성 권한을 열어야합니다!</string>	
+    	<string name="tip_notification_access">알림 액세스</string>	
+    	<string name="grant">부여</string>	
+    	<string name="tip_open_oppo_float">떠 다니는 창 관리를 클릭하고 찾아서 활성화하십시오.</string>	
+    	<string name="tip_open_oppo_boot">Manage autorun apps를 클릭하고 찾아서 활성화하십시오.</string>	
+    	<string name="tip_open_meizu_float">플로팅 윈도우 또는 팝업 알림을 찾아서 활성화하십시오.</string>	
+    	<string name="tip_open_meizu_boot">자동 시작 사용</string>	
+    	<string name="tip_permission_not_open">보조금 지급 실패</string>	
+    	<string name="tip_open_common_protect">터치 마스터가 멈추는 것을 막기 위해, 나를 찾아서 눌러주십시오.\n잠궈.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Touch Master가 멈추는 것을 방지하려면 나를 찾아서 잠그십시오.</string>	
+    	<string name="tip_open_xiaomi_boot">자동 시작을 클릭하고 나를 찾아서 활성화하십시오.</string>	
+    	<string name="tip_open_xiaomi_boot_v5">안정적인 실행을 위해 신뢰할 수있는 앱과 자동 실행을 사용하도록 설정하십시오.</string>	
+    	<string name="tip_open_samsung_boot">RAM, AUTO RUN APPS를 클릭하고 Touch Master를 찾아서 활성화하십시오.</string>	
+    	<string name="grant_permission">해당 기능에 권한이 필요합니다. 부여하십시오.\n\n· %s\n</string>
+    	<string name="tip_float_permission">다른 앱 위에 그려라.</string>	
+    	<string name="tip_write_settings_permission">설정 쓰기</string>	
+    	<string name="off">닫기</string>	
+    	<string name="permission_guide_message">% s을 (를) 찾고 엽니 다.</string>	
+    	<string name="tip_permission_title">권한 요청</string>	
+    	<string name="tip_open_permission">허가서를 열어주세요.</string>	
+
+</resources>

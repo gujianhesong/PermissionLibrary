@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">कृपया इसे ढूंढें और खोलें</string>	
+    	<string name="tip_open_float">कृपया फ्लोट ढूंढें और इसे खोलें</string>	
+    	<string name="str_avoid_be_killed">आपको अधिसूचना अनुमति खोलनी चाहिए!</string>	
+    	<string name="tip_open_accessability">आपको पहुंच क्षमता अनुमति खोलनी चाहिए!</string>	
+    	<string name="tip_notification_access">अधिसूचना पहुंच</string>	
+    	<string name="grant">अनुदान</string>	
+    	<string name="tip_open_oppo_float">फ़्लोटिंग विंडो प्रबंधन पर क्लिक करें, इसे ढूंढें और सक्षम करें</string>	
+    	<string name="tip_open_oppo_boot">कृपया autorun ऐप्स प्रबंधित करें पर क्लिक करें, इसे ढूंढें और सक्षम करें</string>	
+    	<string name="tip_open_meizu_float">कृपया फ़्लोटिंग विंडो या पॉप-अप अधिसूचना को ढूंढें और सक्रिय करें</string>	
+    	<string name="tip_open_meizu_boot">ऑटो लॉन्च सक्षम करें</string>	
+    	<string name="tip_permission_not_open">अनुदान विफल</string>	
+    	<string name="tip_open_common_protect">टच मास्टर को रोकने के लिए, कृपया मुझे ढूंढें, दबाएं और नीचे खींचें\nताला लगाएं।\n\n</string>	
+    	<string name="tip_open_samsung_protect">टच मास्टर को रोकने के लिए, कृपया मुझे ढूंढें और इसे लॉक करें।</string>	
+    	<string name="tip_open_xiaomi_boot">कृपया ऑटोस्टार्ट पर क्लिक करें, मुझे ढूंढें और सक्षम करें</string>	
+    	<string name="tip_open_xiaomi_boot_v5">स्थिर चलने सुनिश्चित करने के लिए कृपया विश्वसनीय ऐप और ऑटो लॉन्च सक्षम करें।</string>	
+    	<string name="tip_open_samsung_boot">कृपया रैम, ऑटो रन एपीपीएस पर क्लिक करें, टच मास्टर ढूंढें और इसे सक्षम करें।</string>	
+    	<string name="grant_permission">सुविधा को अनुमति की आवश्यकता है, कृपया इसे दें।\n\n% S\n</string>	
+    	<string name="tip_float_permission">अन्य ऐप्स पर ड्रा करें</string>	
+    	<string name="tip_write_settings_permission">सेटिंग्स लिखें</string>	
+    	<string name="off">बंद करे</string>	
+    	<string name="permission_guide_message">कृपया% s ढूंढें और खोलें।</string>	
+    	<string name="tip_permission_title">अनुमति अनुरोध</string>	
+    	<string name="tip_open_permission">कृपया अनुमति खोलें</string>	
+
+</resources>

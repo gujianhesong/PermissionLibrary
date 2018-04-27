@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">見つけてそれを開いてください</string>	
+    	<string name="tip_open_float">フロートを見つけて開く</string>	
+    	<string name="str_avoid_be_killed">通知の許可を開く必要があります。</string>	
+    	<string name="tip_open_accessability">アクセシビリティの許可を開く必要があります！</string>	
+    	<string name="tip_notification_access">通知アクセス</string>	
+    	<string name="grant">付与</string>	
+    	<string name="tip_open_oppo_float">フローティングウィンドウの管理をクリックして見つけて有効にしてください</string>	
+    	<string name="tip_open_oppo_boot">Manage autorun appsをクリックして見つけて有効にしてください</string>	
+    	<string name="tip_open_meizu_float">フローティングウィンドウやポップアップ通知を見つけて有効にしてください</string>	
+    	<string name="tip_open_meizu_boot">自動起動を有効にする</string>	
+    	<string name="tip_permission_not_open">グラントに失敗しました</string>	
+    	<string name="tip_open_common_protect">タッチマスターが停止しないようにするには、私を見つけて、を押してプルダウンしてください\nそれをロック。\n\n</string>	
+    	<string name="tip_open_samsung_protect">タッチマスターが停止しないように、私を見つけてロックしてください。</string>	
+    	<string name="tip_open_xiaomi_boot">自動スタートをクリックして、私を見つけて有効にしてください</string>	
+    	<string name="tip_open_xiaomi_boot_v5">安定した動作を保証するには、トラステッドアプリと自動起動を有効にしてください。</string>	
+    	<string name="tip_open_samsung_boot">Please click RAM, AUTO RUN APPS, find Touch Master and enable it.</string>	
+    	<string name="grant_permission">この機能には許可が必要です。許可してください。\n\n・%s\n</string>
+    	<string name="tip_float_permission">他のアプリを引きます</string>	
+    	<string name="tip_write_settings_permission">書き込み設定</string>	
+    	<string name="off">閉じる</string>	
+    	<string name="permission_guide_message">%sを見つけて開いてください。</string>
+    	<string name="tip_permission_title">許可要求</string>	
+    	<string name="tip_open_permission">許可をオープンしてください</string>	
+
+</resources>

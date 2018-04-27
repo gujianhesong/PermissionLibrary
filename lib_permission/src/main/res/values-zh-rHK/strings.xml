@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<resources>
+  <string name="tip_open">請找到我並開啟哦。</string>
+  <string name="tip_open_float">請找到懸浮窗並開啟哦。</string>
+  <string name="str_avoid_be_killed">您需要開啟通知權限！</string>
+  <string name="tip_open_accessability">您需要開啟輔助功能！</string>
+  <string name="tip_notification_access">通知訪問</string>
+  <string name="grant">授權</string>
+  <string name="tip_open_oppo_float">請點擊懸浮窗管理，找到我並開啟</string>
+  <string name="tip_open_oppo_boot">請點擊自啟動管理，找到我並開啟</string>
+  <string name="tip_open_meizu_float">請找到並激活[懸浮窗]或[彈框消息]</string>
+  <string name="tip_open_meizu_boot">開啟[自啟動]</string>
+  <string name="tip_open_float_error_content">如果懸浮按鈕無法顯示，請嘗試以下方法：
+    \n\n方式一：進入設置->應用程序->%s->應用詳情->權限管理，開啟懸浮窗權限。
+    \n\n方式二：找到系統應用，例如安全中心，手機管家，進入授權管理，開啟懸浮窗權限。
+    \n\n方式三：上網查詢如何在你的手機裡開啟懸浮窗權限。</string>
+  <string name="tip_permission_not_open">授權失敗</string>
+  <string name="tip_open_common_protect">為了防止被停止，請找到我，按住並下滑以加鎖。</string>
+  <string name="tip_open_samsung_protect">為了防止被停止，請找到我並加鎖。</string>
+  <string name="tip_open_xiaomi_boot">點擊[自啟動管理]，找到我並開啟</string>
+  <string name="tip_open_xiaomi_boot_v5">請打開[我信任該程序]和[自動啟動]，確保穩定運行</string>
+  <string name="tip_open_samsung_boot">請點擊[內存]->[自啟動應用程序]，找到我並開啟</string>
+  <string name="grant_permission">該功能需要權限，請授權。\n\n·%s</string>
+  <string name="tip_float_permission">在其它應用的上層顯示</string>
+  <string name="tip_write_settings_permission">修改系統設置</string>
+  <string name="off">關閉</string>
+  <string name="permission_guide_message">請找到並開啟%s。</string>
+  <string name="tip_permission_title">權限申請</string>
+  <string name="tip_open_permission">請開啟權限</string>
+
+</resources>

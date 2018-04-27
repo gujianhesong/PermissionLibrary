@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">מצא ופתח אותו</string>	
+    	<string name="tip_open_float">נא למצוא צף ופתח אותו</string>	
+    	<string name="str_avoid_be_killed">עליך לפתוח את הודעת ההתראה!</string>	
+    	<string name="tip_open_accessability">אתה צריך לפתוח את הרשאת נגישות!</string>	
+    	<string name="tip_notification_access">גישה להודעות</string>	
+    	<string name="grant">מענק</string>	
+    	<string name="tip_open_oppo_float">לחץ על ניהול חלון צף, אתר אותו והפעל אותו</string>	
+    	<string name="tip_open_oppo_boot">לחץ על ניהול יישומי Autorun, אתר אותו והפעל אותו</string>	
+    	<string name="tip_open_meizu_float">חפש והפעל את החלון הצף או את ההודעה המוקפצת</string>	
+    	<string name="tip_open_meizu_boot">הפעל הפעלה אוטומטית</string>	
+    	<string name="tip_permission_not_open">המענק נכשל</string>	
+    	<string name="tip_open_common_protect">כדי למנוע את עצירת ה- Touch Master, אנא מצא אותי, לחץ ושחרר מטה\nתנעל את זה.\n\n</string>	
+    	<string name="tip_open_samsung_protect">כדי למנוע את עצירת ה- Touch Master, מצא אותי ונעל אותו.</string>	
+    	<string name="tip_open_xiaomi_boot">לחץ על Autostart, אתר אותי והפעל אותי</string>	
+    	<string name="tip_open_xiaomi_boot_v5">הפעל את היישום \'מהימן\' ואת ההשקה האוטומטית כדי להבטיח הפעלה יציבה.</string>	
+    	<string name="tip_open_samsung_boot">לחץ על RAM, AUTO RUN APPS, לחץ על Touch Master (מאסטר מגע) והפעל אותו.</string>	
+    	<string name="grant_permission">התכונה זקוקה לאישור, אנא העניקו אותה.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">צייר מעל אפליקציות אחרות</string>	
+    	<string name="tip_write_settings_permission">כתוב הגדרות</string>	
+    	<string name="off">לִסְגוֹר</string>	
+    	<string name="permission_guide_message">אתר ופתח את% s.</string>	
+    	<string name="tip_permission_title">בקשת רשות</string>	
+    	<string name="tip_open_permission">אנא פתח את ההרשאה</string>	
+
+</resources>

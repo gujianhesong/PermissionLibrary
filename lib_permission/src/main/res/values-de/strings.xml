@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Bitte finden und öffnen Sie es</string>	
+    	<string name="tip_open_float">Bitte finden Sie Float und öffnen Sie es</string>	
+    	<string name="str_avoid_be_killed">Sie sollten die Benachrichtigungsberechtigung öffnen!</string>	
+    	<string name="tip_open_accessability">Sie sollten die Zugriffserlaubnis öffnen!</string>	
+    	<string name="tip_notification_access">Benachrichtigungszugriff</string>	
+    	<string name="grant">Gewähren</string>	
+    	<string name="tip_open_oppo_float">Bitte klicken Sie auf Floating window management, suchen und aktivieren Sie es</string>	
+    	<string name="tip_open_oppo_boot">Klicken Sie auf Autorun-Apps verwalten, suchen und aktivieren Sie sie</string>	
+    	<string name="tip_open_meizu_float">Bitte suchen und aktivieren Sie Floating Window oder Popup-Benachrichtigung</string>	
+    	<string name="tip_open_meizu_boot">Aktivieren Sie den automatischen Start</string>	
+    	<string name="tip_permission_not_open">Zuschuss fehlgeschlagen</string>	
+    	<string name="tip_open_common_protect">Um zu verhindern, dass Touch Master gestoppt wird, finden Sie mich, drücken und ziehen Sie nach unten\nverschließe es.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Um zu verhindern, dass der Touch Master gestoppt wird, finden Sie mich und sperren Sie ihn.</string>	
+    	<string name="tip_open_xiaomi_boot">Bitte klicken Sie auf Autostart, finden und aktivieren Sie mich</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Bitte aktivieren Sie die Trusted-App und den automatischen Start, um einen stabilen Betrieb sicherzustellen.</string>	
+    	<string name="tip_open_samsung_boot">Bitte klicken Sie auf RAM, AUTO RUN APPS, finden Sie Touch Master und aktivieren Sie es.</string>	
+    	<string name="grant_permission">Die Funktion benötigt eine Berechtigung, bitte gewähren Sie sie.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Zeichnen Sie über andere Apps</string>	
+    	<string name="tip_write_settings_permission">Einstellungen schreiben</string>	
+    	<string name="off">Schließen</string>	
+    	<string name="permission_guide_message">Bitte finden und öffnen Sie% s.</string>	
+    	<string name="tip_permission_title">Erlaubnisanfrage</string>	
+    	<string name="tip_open_permission">Bitte öffnen Sie die Erlaubnis</string>	
+
+</resources>

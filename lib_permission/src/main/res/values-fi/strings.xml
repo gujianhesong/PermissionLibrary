@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Löydä ja avaa se</string>	
+    	<string name="tip_open_float">Löydä kellua ja avaa se</string>	
+    	<string name="str_avoid_be_killed">Sinun pitäisi avata ilmoituslupa.</string>	
+    	<string name="tip_open_accessability">Sinun pitäisi avata käyttöoikeuslupa.</string>	
+    	<string name="tip_notification_access">Ilmoituksen käyttöoikeus</string>	
+    	<string name="grant">Myöntää</string>	
+    	<string name="tip_open_oppo_float">Valitse Floating window management, etsi ja ota se käyttöön</string>	
+    	<string name="tip_open_oppo_boot">Napsauta Hallitse autorun-sovelluksia, etsi ja ota se käyttöön</string>	
+    	<string name="tip_open_meizu_float">Etsi ja aktivoi kelluva ikkuna tai ponnahdusikkuna</string>	
+    	<string name="tip_open_meizu_boot">Ota käyttöön automaattinen käynnistys</string>	
+    	<string name="tip_permission_not_open">Apuraha epäonnistui</string>	
+    	<string name="tip_open_common_protect">Voit estää Touch Masterin pysäytyksen löytääkseen minut, paina ja paina alas\nLukitse se.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Voit estää Touch Masterin pysäytyksen löytääkseen minut ja lukitsemalla sen.</string>	
+    	<string name="tip_open_xiaomi_boot">Napsauta Autostart, etsi ja ota käyttöön</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Ota käyttöön luotettu sovellus ja automaattinen käynnistys varmistaaksesi vakaata käyttöä.</string>	
+    	<string name="tip_open_samsung_boot">Napsauta RAM, AUTO RUN APPS, etsi Touch Master ja ota se käyttöön.</string>	
+    	<string name="grant_permission">Ominaisuus edellyttää lupaa, anna se.\n\n% S\n</string>	
+    	<string name="tip_float_permission">Piirrä muita sovelluksia</string>	
+    	<string name="tip_write_settings_permission">Kirjoita asetukset</string>	
+    	<string name="off">kiinni</string>	
+    	<string name="permission_guide_message">Etsi ja avaa% s.</string>	
+    	<string name="tip_permission_title">Lupapyyntö</string>	
+    	<string name="tip_open_permission">Avaa lupa</string>	
+
+</resources>

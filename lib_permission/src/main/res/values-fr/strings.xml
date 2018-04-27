@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">S\'il vous plaît trouver et ouvrez-le</string>	
+    	<string name="tip_open_float">S\'il vous plaît trouver float et l\'ouvrir</string>	
+    	<string name="str_avoid_be_killed">Vous devriez ouvrir l\'autorisation de notification!</string>	
+    	<string name="tip_open_accessability">Vous devriez ouvrir l\'autorisation d\'accessibilité!</string>	
+    	<string name="tip_notification_access">Accès aux notifications</string>	
+    	<string name="grant">Subvention</string>	
+    	<string name="tip_open_oppo_float">Cliquez sur Gestion de la fenêtre flottante, recherchez-la et activez-la</string>	
+    	<string name="tip_open_oppo_boot">Cliquez sur Gérer les applications autorun, trouvez-les et activez-les</string>	
+    	<string name="tip_open_meizu_float">Veuillez trouver et activer une fenêtre flottante ou une notification contextuelle</string>	
+    	<string name="tip_open_meizu_boot">Enable Auto launch</string>	
+    	<string name="tip_permission_not_open">Grant échoué</string>	
+    	<string name="tip_open_common_protect">Pour empêcher l\'arrêt du Touch Master, veuillez me trouver, appuyez sur et\nverrouille le.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Pour empêcher l\'arrêt du Touch Master, veuillez me trouver et le verrouiller.</string>	
+    	<string name="tip_open_xiaomi_boot">Veuillez cliquer sur Autostart, trouvez-moi et activez-moi</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Veuillez activer l\'application approuvée et le lancement automatique pour assurer un fonctionnement stable.</string>	
+    	<string name="tip_open_samsung_boot">Veuillez cliquer sur RAM, AUTO RUN APPS, trouver Touch Master et l\'activer.</string>	
+    	<string name="grant_permission">La fonctionnalité nécessite une autorisation, veuillez l\'accorder.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Dessiner sur d\'autres applications</string>	
+    	<string name="tip_write_settings_permission">Paramètres d\'écriture</string>	
+    	<string name="off">Fermer</string>	
+    	<string name="permission_guide_message">Veuillez trouver et ouvrir% s.</string>	
+    	<string name="tip_permission_title">Demande d\'autorisation</string>	
+    	<string name="tip_open_permission">S\'il vous plaît ouvrir la permission</string>	
+
+</resources>

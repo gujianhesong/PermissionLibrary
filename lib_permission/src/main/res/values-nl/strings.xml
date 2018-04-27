@@ -1,0 +1,27 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Zoek en open het</string>	
+    	<string name="tip_open_float">Vind float en open het</string>	
+    	<string name="str_avoid_be_killed">U zou de notificatie moeten openen!</string>	
+    	<string name="tip_open_accessability">U moet de toegangsrechten openen!</string>	
+    	<string name="tip_notification_access">Toegang tot meldingen</string>	
+    	<string name="grant">Verlenen</string>	
+    	<string name="tip_open_oppo_float">Klik op Drijvend vensterbeheer, zoek het op en schakel het in</string>	
+    	<string name="tip_open_oppo_boot">Klik op Autorun-apps beheren, zoeken en inschakelen</string>	
+    	<string name="tip_open_meizu_float">Zoek en activeer zwevend venster of pop-upmelding</string>	
+    	<string name="tip_open_meizu_boot">Schakel Auto starten in</string>	
+    	<string name="tip_permission_not_open">Grant failed</string>	
+    	<string name="tip_open_common_protect">Om te voorkomen dat Touch Master wordt gestopt, zoek me op, druk op en trek omlaag naar
+        </string>	
+    	<string name="tip_open_samsung_protect">Om te voorkomen dat Touch Master wordt gestopt, zoek me op en sluit het.</string>	
+    	<string name="tip_open_xiaomi_boot">Please click Autostart, find and enable me</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Schakel de Trusted app en Auto launch in om een ​​stabiele werking te garanderen.</string>	
+    	<string name="tip_open_samsung_boot">Please click RAM, AUTO RUN APPS, find Touch Master and enable it.</string>	
+    	<string name="grant_permission">De functie heeft toestemming nodig, geef dit toe.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Teken over andere apps</string>	
+    	<string name="tip_write_settings_permission">Schrijf instellingen</string>	
+    	<string name="off">Dichtbij</string>	
+    	<string name="permission_guide_message">Zoek en open% s.</string>	
+    	<string name="tip_permission_title">Toestemmingsverzoek</string>	
+    	<string name="tip_open_permission">Open de toestemming</string>	
+
+</resources>

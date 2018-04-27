@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Nyisd meg és nyisd meg</string>	
+    	<string name="tip_open_float">Legyen úszó és nyisd meg</string>	
+    	<string name="str_avoid_be_killed">Nyissa meg a bejelentési engedélyt!</string>	
+    	<string name="tip_open_accessability">Nyissa meg a hozzáférési engedélyt!</string>	
+    	<string name="tip_notification_access">Bejelentési hozzáférés</string>	
+    	<string name="grant">Grant</string>	
+    	<string name="tip_open_oppo_float">Kattintson a Lebegő ablakkezelés lehetőségre, keresse meg és engedélyezze azt</string>	
+    	<string name="tip_open_oppo_boot">Kattintson az Autorun alkalmazások kezelése, megtalálása és engedélyezése lehetőségre</string>	
+    	<string name="tip_open_meizu_float">Lépjen be és aktiváljon úszó ablakot vagy felugró értesítést</string>	
+    	<string name="tip_open_meizu_boot">Engedélyezze az automatikus indítást</string>	
+    	<string name="tip_permission_not_open">A támogatás sikertelen</string>	
+    	<string name="tip_open_common_protect">Ha meg szeretné akadályozni, hogy az érintőképernyő leálljon, keressen meg, nyomjon meg és húzza le\nzárd be.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Ha meg akarja akadályozni a Touch Master leállítását, keresse meg és zárja be.</string>	
+    	<string name="tip_open_xiaomi_boot">Kérem kattintson az Autostart, keresse meg és engedélyezze</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Kérjük, engedélyezze a Megbízható alkalmazást és az Automatikus indítás funkciót a stabil működés érdekében.</string>	
+    	<string name="tip_open_samsung_boot">Kattintson a RAM, AUTO RUN APPS, a Touch Master parancsra, és engedélyezze.</string>	
+    	<string name="grant_permission">A szolgáltatáshoz engedély szükséges, kérjük adja meg.\n\n% S\n</string>	
+    	<string name="tip_float_permission">Rajzolj más alkalmazásokra</string>	
+    	<string name="tip_write_settings_permission">Írási beállítások</string>	
+    	<string name="off">Bezárás</string>	
+    	<string name="permission_guide_message">Nyissa meg és nyissa meg a (z)% s szót.</string>	
+    	<string name="tip_permission_title">Engedélykérelem</string>	
+    	<string name="tip_open_permission">Kérjen engedélyt</string>	
+
+</resources>

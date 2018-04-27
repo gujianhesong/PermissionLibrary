@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Najděte jej a otevřete jej</string>	
+    	<string name="tip_open_float">Najděte plovák a otevřete jej</string>	
+    	<string name="str_avoid_be_killed">Měli byste otevřít povolení pro oznámení!</string>	
+    	<string name="tip_open_accessability">Měli byste otevřít oprávnění pro přístupnost!</string>	
+    	<string name="tip_notification_access">Oznamovací přístup</string>	
+    	<string name="grant">Grant</string>	
+    	<string name="tip_open_oppo_float">Klepněte na položku Plovoucí správa oken, vyhledejte a aktivujte ji</string>	
+    	<string name="tip_open_oppo_boot">Klepněte na možnost Spravovat aplikace autorun, vyhledejte ji a povolte</string>	
+    	<string name="tip_open_meizu_float">Najděte a aktivujte oznámení o plovoucím okně nebo pop-up</string>	
+    	<string name="tip_open_meizu_boot">Povolit automatické spuštění</string>	
+    	<string name="tip_permission_not_open">Grant se nezdařil</string>	
+    	<string name="tip_open_common_protect">Chcete-li zabránit zastavení Touch Master, najděte mě, stiskněte a přetáhněte dolů na\nzamknout to.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Chcete-li zabránit zastavení Touch Master, najděte mě a zamkněte.</string>	
+    	<string name="tip_open_xiaomi_boot">Klikněte na Autostart, najděte a aktivujte mě</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Aktivujte důvěryhodnou aplikaci a spusťte automatické spuštění, abyste zajistili stabilní provoz.</string>	
+    	<string name="tip_open_samsung_boot">Klepněte na tlačítko RAM, AUTO RUN APPS, vyhledejte Touch Master a povolte jej.</string>	
+    	<string name="grant_permission">Funkce potřebuje povolení, prosím, udělejte to.\n\n·%s\n</string>
+    	<string name="tip_float_permission">Nakreslete si další aplikace</string>	
+    	<string name="tip_write_settings_permission">Nastavení zápisu</string>	
+    	<string name="off">Zavřít</string>	
+    	<string name="permission_guide_message">Najděte a otevřete% s.</string>	
+    	<string name="tip_permission_title">Žádost o povolení</string>	
+    	<string name="tip_open_permission">Otevřete prosím povolení</string>	
+
+</resources>

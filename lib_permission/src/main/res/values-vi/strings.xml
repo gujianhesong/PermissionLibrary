@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Hãy tìm và mở nó</string>	
+    	<string name="tip_open_float">Vui lòng tìm phao và mở nó</string>	
+    	<string name="str_avoid_be_killed">Bạn nên mở quyền thông báo！</string>	
+    	<string name="tip_open_accessability">Bạn nên mở quyền truy cập！</string>	
+    	<string name="tip_notification_access">Quyền truy cập thông báo</string>	
+    	<string name="grant">Ban cho</string>	
+    	<string name="tip_open_oppo_float">Vui lòng nhấp vào Quản lý cửa sổ nổi, tìm và bật nó</string>	
+    	<string name="tip_open_oppo_boot">Vui lòng nhấp vào Quản lý các ứng dụng tự động chạy, tìm và bật ứng dụng</string>	
+    	<string name="tip_open_meizu_float">Vui lòng tìm và kích hoạt cửa sổ nổi hoặc thông báo bật lên</string>	
+    	<string name="tip_open_meizu_boot">Bật Tự động khởi chạy</string>	
+    	<string name="tip_permission_not_open">Cấp không thành công</string>	
+    	<string name="tip_open_common_protect">Để ngăn chặn Touch Master bị dừng lại, hãy tìm tôi, nhấn và kéo xuống\nkhóa nó lại.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Để ngăn chặn Touch Master bị dừng lại, hãy tìm tôi và khóa nó.</string>	
+    	<string name="tip_open_xiaomi_boot">Vui lòng nhấp vào Tự khởi động, tìm và bật tôi</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Vui lòng bật ứng dụng Tin cậy và Tự động khởi chạy để đảm bảo chạy ổn định.</string>	
+    	<string name="tip_open_samsung_boot">Vui lòng nhấp vào RAM, AUTO RUN APPS, tìm Touch Master và kích hoạt nó.</string>	
+    	<string name="grant_permission">Tính năng này cần sự cho phép, vui lòng cấp quyền này.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Vẽ trên các ứng dụng khác</string>	
+    	<string name="tip_write_settings_permission">Viết cài đặt</string>	
+    	<string name="off">Gần</string>	
+    	<string name="permission_guide_message">Vui lòng tìm và mở% s。</string>	
+    	<string name="tip_permission_title">Yêu cầu sự cho phép</string>	
+    	<string name="tip_open_permission">Vui lòng mở quyền</string>	
+
+</resources>

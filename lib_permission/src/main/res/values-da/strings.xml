@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Venligst find og Åbn den</string>	
+    	<string name="tip_open_float">Find venligst float og Åbn den</string>	
+    	<string name="str_avoid_be_killed">Du skal åbne meddelelses tilladelsen!</string>	
+    	<string name="tip_open_accessability">Du skal åbne adgangsrettighederne!</string>	
+    	<string name="tip_notification_access">Meddelelsesadgang</string>	
+    	<string name="grant">Give</string>	
+    	<string name="tip_open_oppo_float">Klik venligst på Flydende vindueshåndtering, find og aktiver den</string>	
+    	<string name="tip_open_oppo_boot">Klik på Administrer autorun apps, find og aktiver den</string>	
+    	<string name="tip_open_meizu_float">Find og aktiver flydende vindue eller pop op-meddelelse</string>	
+    	<string name="tip_open_meizu_boot">Aktivér automatisk lancering</string>	
+    	<string name="tip_permission_not_open">Tilskud mislykkedes</string>	
+    	<string name="tip_open_common_protect">For at forhindre, at Touch Master stoppes, find mig, tryk og træk ned til\nlås den.\n\n</string>	
+    	<string name="tip_open_samsung_protect">For at forhindre, at Touch Master stoppes, skal du finde mig og låse den.</string>	
+    	<string name="tip_open_xiaomi_boot">Klik venligst på Autostart, find og aktiver mig</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Aktivér venligst Trusted app og Auto launch for at sikre stabil kørsel.</string>	
+    	<string name="tip_open_samsung_boot">Klik venligst på RAM, AUTO RUN APPS, find Touch Master og aktiver det.</string>	
+    	<string name="grant_permission">Funktionen kræver tilladelse, vær venlig at give den.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Tegn over andre apps</string>	
+    	<string name="tip_write_settings_permission">Skriv indstillinger</string>	
+    	<string name="off">Tæt</string>	
+    	<string name="permission_guide_message">Find og åben% s.</string>	
+    	<string name="tip_permission_title">Tilladelsesanmodning</string>	
+    	<string name="tip_open_permission">Venligst åbner tilladelse</string>	
+
+</resources>

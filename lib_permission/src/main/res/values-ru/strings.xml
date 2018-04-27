@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Найдите и откройте его</string>	
+    	<string name="tip_open_float">Пожалуйста, найдите float и откройте его.</string>	
+    	<string name="str_avoid_be_killed">Вы должны открыть разрешение на уведомление!</string>	
+    	<string name="tip_open_accessability">Вы должны открыть разрешение на доступность!</string>	
+    	<string name="tip_notification_access">Доступ к уведомлению</string>	
+    	<string name="grant">Грант</string>	
+    	<string name="tip_open_oppo_float">Нажмите «Управление плавающим окном», найдите и включите его.</string>	
+    	<string name="tip_open_oppo_boot">Нажмите «Управление приложениями автозапуска», найдите и включите его.</string>	
+    	<string name="tip_open_meizu_float">Найдите и активируйте плавающее окно или всплывающее уведомление</string>	
+    	<string name="tip_open_meizu_boot">Включить автозапуск</string>	
+    	<string name="tip_permission_not_open">Не удалось получить грант</string>	
+    	<string name="tip_open_common_protect">Чтобы предотвратить остановку Touch Master, найдите меня, нажмите и снимите\nзакрой.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Чтобы предотвратить остановку Touch Master, найдите меня и заблокируйте.</string>	
+    	<string name="tip_open_xiaomi_boot">Нажмите «Автозапуск», найдите и включите меня.</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Чтобы обеспечить стабильную работу, включите доверенное приложение и автоматический запуск.</string>	
+    	<string name="tip_open_samsung_boot">Нажмите RAM, AUTO RUN APPS, найдите Touch Master и включите его.</string>	
+    	<string name="grant_permission">Функция нуждается в разрешении, пожалуйста, предоставьте ее.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Нарисуйте другие приложения</string>	
+    	<string name="tip_write_settings_permission">Настройки записи</string>	
+    	<string name="off">Закрыть</string>	
+    	<string name="permission_guide_message">Найдите% s.</string>	
+    	<string name="tip_permission_title">Запрос на разрешение</string>	
+    	<string name="tip_open_permission">Пожалуйста, откройте разрешение</string>	
+
+</resources>

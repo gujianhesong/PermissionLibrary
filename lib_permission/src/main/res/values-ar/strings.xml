@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">يرجى العثور عليها وفتحها</string>	
+    	<string name="tip_open_float">يرجى العثور على تعويم وفتحه</string>	
+    	<string name="str_avoid_be_killed">يجب عليك فتح إذن الإعلام！</string>	
+    	<string name="tip_open_accessability">يجب عليك فتح إذن إمكانية الوصول！</string>	
+    	<string name="tip_notification_access">وصول الإخطار</string>	
+    	<string name="grant">منحة</string>	
+    	<string name="tip_open_oppo_float">الرجاء النقر فوق Floating window إدارة ، ابحث وتمكينها</string>	
+    	<string name="tip_open_oppo_boot">الرجاء النقر فوق إدارة تطبيقات التشغيل التلقائي ، والعثور عليها وتمكينها</string>	
+    	<string name="tip_open_meizu_float">يرجى العثور على وتفعيل نافذة عائمة أو تنبيه منبثق</string>	
+    	<string name="tip_open_meizu_boot">تمكين الاطلاق التلقائي</string>	
+    	<string name="tip_permission_not_open">فشل المنحة</string>	
+    	<string name="tip_open_common_protect">لمنع توقف اللمس ماجستير ، تجد لي ، اضغط عليها وسحب لأسفل\nأغلق.\n\n</string>	
+    	<string name="tip_open_samsung_protect">لمنع توقف اللمس ماجستير ، تجد لي وقفلها.</string>	
+    	<string name="tip_open_xiaomi_boot">الرجاء النقر فوق Autostart وإيجاد وتمكين لي</string>	
+    	<string name="tip_open_xiaomi_boot_v5">يرجى تمكين التطبيق الموثوق والإطلاق التلقائي لضمان التشغيل الثابت.</string>	
+    	<string name="tip_open_samsung_boot">الرجاء النقر فوق RAM ، AUTO RUN APPS ، والبحث عن Touch Master وتمكينه.</string>	
+    	<string name="grant_permission">تحتاج الميزة إلى إذن ، يرجى منحها.\n\n·%s\n</string>
+    	<string name="tip_float_permission">ارسم على التطبيقات الأخرى</string>	
+    	<string name="tip_write_settings_permission">كتابة الإعدادات</string>	
+    	<string name="off">قريب</string>	
+    	<string name="permission_guide_message">الرجاء البحث وفتحs%。</string>
+    	<string name="tip_permission_title">طلب اذن</string>	
+    	<string name="tip_open_permission">الرجاء فتح إذن</string>	
+
+</resources>

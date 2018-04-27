@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">โปรดค้นหาและเปิด</string>	
+    	<string name="tip_open_float">โปรดหาลอยและเปิด</string>	
+    	<string name="str_avoid_be_killed">คุณควรเปิดการแจ้งเตือนสิทธิ์!</string>	
+    	<string name="tip_open_accessability">คุณควรเปิดสิทธิ์การเข้าถึง!</string>	
+    	<string name="tip_notification_access">การเข้าถึงการแจ้งเตือน</string>	
+    	<string name="grant">แกรนท์</string>	
+    	<string name="tip_open_oppo_float">โปรดคลิกการจัดการหน้าต่างแบบลอยตัวค้นหาและเปิดใช้งาน</string>	
+    	<string name="tip_open_oppo_boot">โปรดคลิก Manage autorun apps, ค้นหาและเปิดใช้งาน</string>	
+    	<string name="tip_open_meizu_float">โปรดค้นหาและเปิดใช้งานการแจ้งเตือนหน้าต่างแบบลอยหรือป๊อปอัป</string>	
+    	<string name="tip_open_meizu_boot">เปิดใช้งาน Auto launch</string>	
+    	<string name="tip_permission_not_open">การให้สิทธิ์ล้มเหลว</string>	
+    	<string name="tip_open_common_protect">เพื่อป้องกันไม่ให้ Touch Master หยุดลงโปรดหาฉันกดและดึงลงไป\nล็อคมัน.\n\n</string>	
+    	<string name="tip_open_samsung_protect">เพื่อป้องกันไม่ให้ Touch Master หยุดทำงานโปรดหาฉันและล็อก</string>	
+    	<string name="tip_open_xiaomi_boot">โปรดคลิกเริ่มใหม่ค้นหาและเปิดใช้งานฉัน</string>	
+    	<string name="tip_open_xiaomi_boot_v5">โปรดเปิดใช้งานแอปที่เชื่อถือได้และเปิดใช้งานโดยอัตโนมัติเพื่อให้แน่ใจว่าการทำงานมีเสถียรภาพ</string>	
+    	<string name="tip_open_samsung_boot">โปรดคลิก RAM, เรียกใช้แอพพลิเคชัน AUTO, ค้นหา Touch Master และเปิดใช้งาน</string>	
+    	<string name="grant_permission">คุณลักษณะต้องได้รับอนุญาตโปรดให้สิทธิ์\n\n·% s\n</string>	
+    	<string name="tip_float_permission">วาดบนแอปอื่น ๆ</string>	
+    	<string name="tip_write_settings_permission">เขียนการตั้งค่า</string>	
+    	<string name="off">ปิด</string>	
+    	<string name="permission_guide_message">โปรดค้นหาและเปิด% s</string>	
+    	<string name="tip_permission_title">คำขออนุญาต</string>	
+    	<string name="tip_open_permission">โปรดเปิดการอนุญาต</string>	
+
+</resources>

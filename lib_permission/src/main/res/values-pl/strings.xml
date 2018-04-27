@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Znajdź i otwórz</string>	
+    	<string name="tip_open_float">Znajdź float i otwórz go</string>	
+    	<string name="str_avoid_be_killed">Powinieneś otworzyć uprawnienie do powiadamiania!</string>	
+    	<string name="tip_open_accessability">Powinieneś otworzyć uprawnienia dostępu!</string>	
+    	<string name="tip_notification_access">Dostęp do powiadomienia</string>	
+    	<string name="grant">Dotacja</string>	
+    	<string name="tip_open_oppo_float">Kliknij Floating window management, znajdź i włącz to</string>	
+    	<string name="tip_open_oppo_boot">Kliknij Zarządzaj autorunami aplikacji, znajdź i włącz to</string>	
+    	<string name="tip_open_meizu_float">Znajdź i aktywuj pływające okno lub wyskakujące powiadomienie</string>	
+    	<string name="tip_open_meizu_boot">Włącz automatyczne uruchamianie</string>	
+    	<string name="tip_permission_not_open">Grant nie powiódł się</string>	
+    	<string name="tip_open_common_protect">Aby uniemożliwić zatrzymanie Touch Master, znajdź mnie, naciśnij i pociągnij w dół, aby\nzablokuj to.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Aby zapobiec zatrzymaniu Touch Master, znajdź mnie i zablokuj.</string>	
+    	<string name="tip_open_xiaomi_boot">Kliknij Autostart, znajdź i włącz mnie</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Włącz Zaufana aplikacja i Automatycznie uruchom, aby zapewnić stabilną pracę.</string>	
+    	<string name="tip_open_samsung_boot">Kliknij RAM, AUTO RUN APPS, znajdź Touch Master i włącz go.</string>	
+    	<string name="grant_permission">Ta funkcja wymaga uprawnień, proszę ją przyznać.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Rysuj na innych aplikacjach</string>	
+    	<string name="tip_write_settings_permission">Zapisz ustawienia</string>	
+    	<string name="off">Blisko</string>	
+    	<string name="permission_guide_message">Znajdź i otwórz% s.</string>	
+    	<string name="tip_permission_title">Prośba o pozwolenie</string>	
+    	<string name="tip_open_permission">Proszę otworzyć pozwolenie</string>	
+
+</resources>

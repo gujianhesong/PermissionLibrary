@@ -105,15 +105,15 @@ public class FloatPermissionMgr {
               public void onClick(View view) {
                 mIsSettingFloatDialogShowing = false;
 
-                new Handler(Looper.getMainLooper()).post(new Runnable() {
-                  @Override public void run() {
-                    new GuideDialog(context).setOnlyShowText(R.string.tip_open).show();
-                  }
-                });
-
                 if(isV6Upper){
 
                   requestPermissionFloatForVersion6(context, listener);
+
+                  new Handler(Looper.getMainLooper()).post(new Runnable() {
+                    @Override public void run() {
+                      new GuideDialog(context).setOnlyShowText(R.string.tip_open).show();
+                    }
+                  });
 
                 }else{
 
@@ -220,7 +220,9 @@ public class FloatPermissionMgr {
    * @param listener
    */
   private static void innerListenPermissionOpened(final Context context, final long endTime, final OnPermissionListener listener) {
-    if(System.currentTimeMillis() >= endTime) return;
+    if(System.currentTimeMillis() >= endTime) {
+      return;
+    }
 
     new Handler(Looper.getMainLooper()).postDelayed(new Runnable() {
       @Override public void run() {

@@ -20,7 +20,11 @@ public class CdBuildProperties {
 
     private CdBuildProperties() throws IOException {
         properties = new Properties();
-        properties.load(new FileInputStream(new File(Environment.getRootDirectory(), "build.prop")));
+        FileInputStream fis = new FileInputStream(new File(Environment.getRootDirectory(), "build.prop"));
+        properties.load(fis);
+        if(fis != null){
+            fis.close();
+        }
     }
 
     public boolean containsKey(final Object key) {

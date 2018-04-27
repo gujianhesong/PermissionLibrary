@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><resources>	
+    	<string name="tip_open">Găsiți și deschideți-l;</string>	
+    	<string name="tip_open_float">Vă rog să găsiți flotorul și Deschideți-l</string>	
+    	<string name="str_avoid_be_killed">Ar trebui să deschideți permisiunea de notificare!</string>	
+    	<string name="tip_open_accessability">Ar trebui să deschideți permisiunea de accesibilitate!</string>	
+    	<string name="tip_notification_access">Accesul la notificare</string>	
+    	<string name="grant">Acorda</string>	
+    	<string name="tip_open_oppo_float">Faceți clic pe gestionarea ferestrelor plutitoare, găsiți și activați</string>	
+    	<string name="tip_open_oppo_boot">Dați clic pe Gestionați aplicațiile autorun, găsiți și activați-l</string>	
+    	<string name="tip_open_meizu_float">Găsiți și activați notificarea ferestrelor flotante sau pop-up</string>	
+    	<string name="tip_open_meizu_boot">Activați lansarea automată</string>	
+    	<string name="tip_permission_not_open">Grant nu a reușit</string>	
+    	<string name="tip_open_common_protect">Pentru a împiedica oprirea Touch Master, găsiți-mă, apăsați și trageți în jos până la\ninchide-l.\n\n</string>	
+    	<string name="tip_open_samsung_protect">Pentru a împiedica oprirea Touch Master, te rog să mă găsești și să o blochez.</string>	
+    	<string name="tip_open_xiaomi_boot">Dați clic pe Autostart, găsiți și activați-mă</string>	
+    	<string name="tip_open_xiaomi_boot_v5">Activați aplicația Trusted și lansați Auto pentru a vă asigura că rulează în mod stabil.</string>	
+    	<string name="tip_open_samsung_boot">Faceți clic pe RAM, pe aplicațiile AUTO RUN, găsiți Touch Master și activați-l.</string>	
+    	<string name="grant_permission">Caracteristica necesită permisiune, vă rugăm să o acordați.\n\n·% S\n</string>	
+    	<string name="tip_float_permission">Desenați peste alte aplicații</string>	
+    	<string name="tip_write_settings_permission">Scrieți Setări</string>	
+    	<string name="off">Închide</string>	
+    	<string name="permission_guide_message">Găsiți și deschideți% s.</string>	
+    	<string name="tip_permission_title">Cerere de permisiune</string>	
+    	<string name="tip_open_permission">Vă rugăm să deschideți permisiunea</string>	
+
+</resources>
